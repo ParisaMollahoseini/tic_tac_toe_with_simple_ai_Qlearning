@@ -2,7 +2,7 @@
 """
 Created on Fri Sep  4 12:36:18 2020
 
-@author: Soheil_Pc
+@author: parisa mollahoseini
 """
 import numpy as np
 import torch
